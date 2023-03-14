@@ -1,0 +1,3 @@
+[submodule "bellhop"]
+	path = bellhop
+	url = git@github.com:A-New-BellHope/bellhop.git
