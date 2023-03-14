@@ -1,3 +1,6 @@
 [submodule "bellhop"]
 	path = bellhop
 	url = git@github.com:A-New-BellHope/bellhop.git
+[submodule "uwa"]
+	path = uwa
+	url = git@github.com:nilsmorozs/uwa-channel-model.git
